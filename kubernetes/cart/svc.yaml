@@ -21,3 +21,5 @@ spec:
   selector:
     
     opentelemetry.io/name: opentelemetry-demo-cartservice
+
+### run this 
