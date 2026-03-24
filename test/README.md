@@ -31,3 +31,6 @@ them with:
 ```sh
 make run-tracetesting SERVICES_TO_TEST="ad payment"
 ```
+
+
+## have to modify shell scripts
